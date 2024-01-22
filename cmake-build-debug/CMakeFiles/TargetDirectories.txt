@@ -1,0 +1,3 @@
+C:/Users/ninaz/CLionProjects/oudgithub/cmake-build-debug/CMakeFiles/oudgithub.dir
+C:/Users/ninaz/CLionProjects/oudgithub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ninaz/CLionProjects/oudgithub/cmake-build-debug/CMakeFiles/rebuild_cache.dir
